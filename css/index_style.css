@@ -5,6 +5,9 @@
     font-weight: 600;
     
 }
+#alertContainer {
+  display: none;
+}
 .caption{
     margin: 15px 0;
     padding: 20px;
